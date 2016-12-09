@@ -1,0 +1,33 @@
+{
+  "name": "coffee-bot",
+  "version": "1.0.0",
+  "description": "Simple Slack bot for ordering tea and coffee at SovTech",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SovTech/CoffeeBot.git"
+  },
+  "keywords": [
+    "coffee",
+    "tea",
+    "slack",
+    "bot",
+    "sovtech"
+  ],
+  "author": "Jonathan Irwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SovTech/CoffeeBot/issues"
+  },
+  "homepage": "https://github.com/SovTech/CoffeeBot#readme",
+  "dependencies": {
+    "botkit": "^0.4.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-latest": "^6.16.0"
+  }
+}
