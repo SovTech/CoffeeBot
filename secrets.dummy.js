@@ -1,2 +1,2 @@
-export const apiAiAccessToken = "";
-export const slackBotKey = ""
+export const apiAiAccessToken = ''
+export const slackBotKey = ''
